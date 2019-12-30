@@ -1,0 +1,23 @@
+.period-container{
+    background: #f3f3f3;
+    /* height: 35px;
+    line-height: 35px; */
+}
+.period-container ul{
+    display: flex;
+    list-style: none;
+}
+
+
+
+.period-container ul li{
+    display: inline-block;
+    margin-right: 8px;
+    padding: 4px;
+    font-weight: 700;
+}
+
+.active_period{
+    background: #0000ff;
+    color: #FFFFFF;
+}
